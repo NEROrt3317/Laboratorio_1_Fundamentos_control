@@ -42,8 +42,8 @@ Además, se emplearon herramientas de MATLAB como:
 
 ## Autores
 
-- ______________________
-- ______________________
+- SOFIA LOPERA DIEZ
+- NEHIR RODRIGUEZ TAPIAS
 
 ## Curso
 
